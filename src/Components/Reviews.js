@@ -22,7 +22,7 @@ function Reviews() {
   }
 
   return (
-    <div style={{ backgroundColor: "#F5F3F4", borderRadius: "30px 0 0 0", marginLeft: "20px" }}>
+    <div style={{ backgroundColor: "#F5F3F4", borderRadius: "30px 0 0 0", marginLeft: "px" }}>
       <h2 style={{
         fontFamily: 'PT sans',
         color: '#65A0FB',
@@ -30,14 +30,14 @@ function Reviews() {
         fontWeight: 'bold',
         margin: '20px 0',
         textAlign:"center"
-      }}>Reviews</h2>
+      }}>News at your glance</h2>
      <p style={{
         fontSize: '1rem',
         fontWeight: 'bold',
         color: 'rgba(0, 0, 0, 0.7)',
         margin: '0 10px',
         textAlign:"center"
-      }}>What our students say!</p><br />
+      }}>Have a look at FlashFeed!</p><br />
 
 <Marquee
   fade={true}
