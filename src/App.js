@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './Components/Navbar';
 import Header from './Components/Header';
 import Reviews from './Components/Reviews';
+import Download from './Components/Download';
 
 function App() {
   return (
@@ -11,6 +12,10 @@ function App() {
     <Header/>
     <br/>
     <Reviews/>
+    <br/>
+    <br/>
+
+    <Download/>
     </div>
   );
 }

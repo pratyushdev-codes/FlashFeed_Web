@@ -24,7 +24,7 @@ function Reviews() {
       <h2 style={{
         fontFamily: 'PT sans',
         color: '#65A0FB',
-        fontSize: '2.5rem',
+        fontSize: '3rem',
         fontWeight: 'bold',
 
         textAlign:"center"
