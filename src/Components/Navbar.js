@@ -30,10 +30,10 @@ function Navbar() {
             </ul>
             <div className="d-flex flex-column flex-lg-row">
             
-            <button className="btn btn-glow mx-2" style={{ borderRadius:"20px", backgroundColor:"#FFC200"}}>Download Now</button>
+            <button className="btn btn-glow mx-2" style={{ borderRadius:"20px", backgroundColor:"#EFF3F6", color:"#808080", fontWeight:"bold"}}>Download Now</button>
 
             
-             <button className="btn btn-primary mx-2" style={{ borderRadius:"20px", backgroundColor:"#036EFD" }}>Contact Us</button> 
+             <button className="btn btn-primary mx-2" style={{ borderRadius:"20px", backgroundColor:"#036EFD", fontWeight:"bold" }}>Contact Us</button> 
       
             </div>
           </div>

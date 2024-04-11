@@ -15,7 +15,7 @@ function Header() {
           }}
         />
         <div className="text-overlay">
-          <h1>FlashFeed.</h1>
+          <h1 style={{fontWeight:"bolder"}}>FlashFeed.</h1>
           <p></p>
         </div>
       </div>
